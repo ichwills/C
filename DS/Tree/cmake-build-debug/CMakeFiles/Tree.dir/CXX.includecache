@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dercyc/code/C/Tree/function.h
+stdio.h
+-
+stdlib.h
+-
+
+/Users/dercyc/code/C/Tree/main.cpp
+function.h
+/Users/dercyc/code/C/Tree/function.h
+

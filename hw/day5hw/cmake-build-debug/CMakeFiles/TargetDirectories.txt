@@ -1,0 +1,3 @@
+/Users/dercyc/code/C/day5hw/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dercyc/code/C/day5hw/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dercyc/code/C/day5hw/cmake-build-debug/CMakeFiles/day5hw.dir
